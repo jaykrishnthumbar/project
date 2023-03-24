@@ -1,0 +1,20 @@
+public class swap{
+public ststic void main(String []Args){
+
+	int i,j,k;
+	System.out.println("Enter tne munber1: ");
+	Scanner scan = new Scanner("System.in");
+	i = Scan.nextInt();
+	System.out.println("Enter tne munber2: ");
+	Scanner scan = new Scanner("System.in");
+	j = scan.nextInt();
+	system.out.printf(i,j);
+	
+	k=i;
+	i=j;
+	j=k;
+
+	system.out.printf(i,j);
+
+}
+}
